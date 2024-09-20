@@ -19,7 +19,7 @@ printf("\n\n## Library Management ##\n");
 while(j!=5)
 {
 printf("\n1. Add Book Information");
-printf("2. Display All Books Available \n");
+printf("\n2. Display All Books Available \n");
 printf("3. Display Highest Price Book \n");
 printf("4. Display list of Publisher \n");
 printf("5. Exit");
